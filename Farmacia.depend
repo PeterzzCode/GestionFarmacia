@@ -1,0 +1,604 @@
+# depslib dependency file v1.0
+1634681948 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+
+1634406722 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia\include\cliente.h
+
+1634826871 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Remedio.h"
+
+1634826727 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia\include\articulo.h
+	<cstring>
+
+1634827851 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia\src\remedio.cpp
+	<iostream>
+	<cstring>
+	"Remedio.h"
+
+1634826727 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia\include\remedio.h
+	"Articulo.h"
+
+1634682799 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia\main.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Cliente.h"
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+
+1634682718 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia\include\venta.h
+
+1634828714 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+
+1634826871 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia\src\perfumeria.cpp
+	<iostream>
+	<cstring>
+	"Perfumeria.h"
+
+1634826727 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia\include\perfumeria.h
+	"Articulo.h"
+
+1637794580 source:c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Fecha.h"
+	"Articulo.h"
+	"Cliente.h"
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+	"funciones.h"
+	"rlutil.h"
+
+1636674494 c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia\include\articulo.h
+	<cstring>
+
+1635466391 c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia\include\cliente.h
+	"Fecha.h"
+
+1636213033 c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia\include\venta.h
+	"Fecha.h"
+
+1636067171 c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia\include\remedio.h
+	"Articulo.h"
+
+1636067171 c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia\include\perfumeria.h
+	"Articulo.h"
+
+1636674563 source:c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Remedio.h"
+	"Fecha.h"
+
+1636671649 source:c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Fecha.h"
+
+1636068540 source:c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia\src\perfumeria.cpp
+	<iostream>
+	<cstring>
+	"Perfumeria.h"
+	"Fecha.h"
+
+1636070037 source:c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia\src\remedio.cpp
+	<iostream>
+	<cstring>
+	"Remedio.h"
+	"Fecha.h"
+
+1636674480 source:c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+	"Fecha.h"
+	"Cliente.h"
+
+1635963261 c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia\include\fecha.h
+
+1636667535 source:c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia\src\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Fecha.h"
+
+1635265343 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_rest (1)\farmacia\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Articulo.h"
+	"Cliente.h"
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+
+1635265648 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_rest (1)\farmacia\include\fecha.h
+
+1634826727 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_rest (1)\farmacia\include\articulo.h
+	<cstring>
+
+1635264934 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_rest (1)\farmacia\include\cliente.h
+	"Fecha.h"
+
+1635264967 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_rest (1)\farmacia\include\venta.h
+	"Fecha.h"
+
+1634826727 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_rest (1)\farmacia\include\remedio.h
+	"Articulo.h"
+
+1634826727 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_rest (1)\farmacia\include\perfumeria.h
+	"Articulo.h"
+
+1635264826 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_rest (1)\farmacia\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Remedio.h"
+	"Fecha.h"
+
+1635265648 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_rest (1)\farmacia\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Fecha.h"
+
+1635264955 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_rest (1)\farmacia\src\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Fecha.h"
+
+1635264826 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_rest (1)\farmacia\src\perfumeria.cpp
+	<iostream>
+	<cstring>
+	"Perfumeria.h"
+	"Fecha.h"
+
+1635264826 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_rest (1)\farmacia\src\remedio.cpp
+	<iostream>
+	<cstring>
+	"Remedio.h"
+	"Fecha.h"
+
+1635266717 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_rest (1)\farmacia\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+	"Fecha.h"
+	"Cliente.h"
+
+1635264826 source:c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia_rest (1)\farmacia\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Remedio.h"
+	"Fecha.h"
+
+1634826727 c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia_rest (1)\farmacia\include\articulo.h
+	<cstring>
+
+1634826727 c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia_rest (1)\farmacia\include\remedio.h
+	"Articulo.h"
+
+1635265648 c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia_rest (1)\farmacia\include\fecha.h
+
+1635265648 source:c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia_rest (1)\farmacia\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Fecha.h"
+
+1635264934 c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia_rest (1)\farmacia\include\cliente.h
+	"Fecha.h"
+
+1635264955 source:c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia_rest (1)\farmacia\src\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Fecha.h"
+
+1635264826 source:c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia_rest (1)\farmacia\src\perfumeria.cpp
+	<iostream>
+	<cstring>
+	"Perfumeria.h"
+	"Fecha.h"
+
+1634826727 c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia_rest (1)\farmacia\include\perfumeria.h
+	"Articulo.h"
+
+1635264826 source:c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia_rest (1)\farmacia\src\remedio.cpp
+	<iostream>
+	<cstring>
+	"Remedio.h"
+	"Fecha.h"
+
+1635267180 source:c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia_rest (1)\farmacia\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+	"Fecha.h"
+	"Cliente.h"
+
+1635264967 c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia_rest (1)\farmacia\include\venta.h
+	"Fecha.h"
+
+1635267486 source:c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia_rest (1)\farmacia\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Articulo.h"
+	"Cliente.h"
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+
+1636574450 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_version3\farmacia\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Fecha.h"
+	"Articulo.h"
+	"Cliente.h"
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+	"funciones.h"
+
+1635963261 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_version3\farmacia\include\fecha.h
+
+1636674494 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_version3\farmacia\include\articulo.h
+	<cstring>
+
+1635466391 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_version3\farmacia\include\cliente.h
+	"Fecha.h"
+
+1636213033 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_version3\farmacia\include\venta.h
+	"Fecha.h"
+
+1636067171 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_version3\farmacia\include\remedio.h
+	"Articulo.h"
+
+1636067171 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_version3\farmacia\include\perfumeria.h
+	"Articulo.h"
+
+1636674563 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_version3\farmacia\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Remedio.h"
+	"Fecha.h"
+
+1636671649 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_version3\farmacia\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Fecha.h"
+
+1636667535 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_version3\farmacia\src\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Fecha.h"
+
+1636068540 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_version3\farmacia\src\perfumeria.cpp
+	<iostream>
+	<cstring>
+	"Perfumeria.h"
+	"Fecha.h"
+
+1636070037 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_version3\farmacia\src\remedio.cpp
+	<iostream>
+	<cstring>
+	"Remedio.h"
+	"Fecha.h"
+
+1636674480 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_version3\farmacia\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+	"Fecha.h"
+	"Cliente.h"
+
+1637028197 c:\users\hp i5\documents\2 c 2 año\lab2\tp\farmacia_version3\farmacia\funciones.h
+
+1637798485 c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia\funciones.h
+	"rlutil.h"
+
+1623970146 c:\users\peterzz\desktop\ \facu y laburo\segundo cuatrimestre\laboratorio ii\10segundoparcial\farmacia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1637794580 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\famacia version 4\farmacia\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Fecha.h"
+	"Articulo.h"
+	"Cliente.h"
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+	"funciones.h"
+	"rlutil.h"
+
+1635963261 c:\users\hp i5\documents\2 c 2 año\lab2\tp\famacia version 4\farmacia\include\fecha.h
+
+1636674494 c:\users\hp i5\documents\2 c 2 año\lab2\tp\famacia version 4\farmacia\include\articulo.h
+	<cstring>
+
+1635466391 c:\users\hp i5\documents\2 c 2 año\lab2\tp\famacia version 4\farmacia\include\cliente.h
+	"Fecha.h"
+
+1636213033 c:\users\hp i5\documents\2 c 2 año\lab2\tp\famacia version 4\farmacia\include\venta.h
+	"Fecha.h"
+
+1636067171 c:\users\hp i5\documents\2 c 2 año\lab2\tp\famacia version 4\farmacia\include\remedio.h
+	"Articulo.h"
+
+1636067171 c:\users\hp i5\documents\2 c 2 año\lab2\tp\famacia version 4\farmacia\include\perfumeria.h
+	"Articulo.h"
+
+1637798485 c:\users\hp i5\documents\2 c 2 año\lab2\tp\famacia version 4\farmacia\funciones.h
+	"rlutil.h"
+
+1623970146 c:\users\hp i5\documents\2 c 2 año\lab2\tp\famacia version 4\farmacia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1636674563 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\famacia version 4\farmacia\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Remedio.h"
+	"Fecha.h"
+
+1636671649 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\famacia version 4\farmacia\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Fecha.h"
+
+1636667535 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\famacia version 4\farmacia\src\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Fecha.h"
+
+1636068540 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\famacia version 4\farmacia\src\perfumeria.cpp
+	<iostream>
+	<cstring>
+	"Perfumeria.h"
+	"Fecha.h"
+
+1636070037 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\famacia version 4\farmacia\src\remedio.cpp
+	<iostream>
+	<cstring>
+	"Remedio.h"
+	"Fecha.h"
+
+1636674480 source:c:\users\hp i5\documents\2 c 2 año\lab2\tp\famacia version 4\farmacia\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+	"Fecha.h"
+	"Cliente.h"
+
+1637794580 source:c:\users\peterzz\desktop\farmacia\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Fecha.h"
+	"Articulo.h"
+	"Cliente.h"
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+	"funciones.h"
+	"rlutil.h"
+
+1635963261 c:\users\peterzz\desktop\farmacia\include\fecha.h
+
+1636674494 c:\users\peterzz\desktop\farmacia\include\articulo.h
+	<cstring>
+
+1635466391 c:\users\peterzz\desktop\farmacia\include\cliente.h
+	"Fecha.h"
+
+1636213033 c:\users\peterzz\desktop\farmacia\include\venta.h
+	"Fecha.h"
+
+1636067171 c:\users\peterzz\desktop\farmacia\include\remedio.h
+	"Articulo.h"
+
+1636067171 c:\users\peterzz\desktop\farmacia\include\perfumeria.h
+	"Articulo.h"
+
+1637798485 c:\users\peterzz\desktop\farmacia\funciones.h
+	"rlutil.h"
+
+1623970146 c:\users\peterzz\desktop\farmacia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1636674563 source:c:\users\peterzz\desktop\farmacia\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Remedio.h"
+	"Fecha.h"
+
+1636671649 source:c:\users\peterzz\desktop\farmacia\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Fecha.h"
+
+1636667535 source:c:\users\peterzz\desktop\farmacia\src\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Fecha.h"
+
+1636068540 source:c:\users\peterzz\desktop\farmacia\src\perfumeria.cpp
+	<iostream>
+	<cstring>
+	"Perfumeria.h"
+	"Fecha.h"
+
+1636070037 source:c:\users\peterzz\desktop\farmacia\src\remedio.cpp
+	<iostream>
+	<cstring>
+	"Remedio.h"
+	"Fecha.h"
+
+1636674480 source:c:\users\peterzz\desktop\farmacia\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+	"Fecha.h"
+	"Cliente.h"
+
+1637794580 source:c:\users\peterzz\desktop\ \facu y laburo\farmacia\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Fecha.h"
+	"Articulo.h"
+	"Cliente.h"
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+	"funciones.h"
+	"rlutil.h"
+
+1635963261 c:\users\peterzz\desktop\ \facu y laburo\farmacia\include\fecha.h
+
+1636674494 c:\users\peterzz\desktop\ \facu y laburo\farmacia\include\articulo.h
+	<cstring>
+
+1635466391 c:\users\peterzz\desktop\ \facu y laburo\farmacia\include\cliente.h
+	"Fecha.h"
+
+1636213033 c:\users\peterzz\desktop\ \facu y laburo\farmacia\include\venta.h
+	"Fecha.h"
+
+1636067171 c:\users\peterzz\desktop\ \facu y laburo\farmacia\include\remedio.h
+	"Articulo.h"
+
+1636067171 c:\users\peterzz\desktop\ \facu y laburo\farmacia\include\perfumeria.h
+	"Articulo.h"
+
+1637798485 c:\users\peterzz\desktop\ \facu y laburo\farmacia\funciones.h
+	"rlutil.h"
+
+1623970146 c:\users\peterzz\desktop\ \facu y laburo\farmacia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1636674563 source:c:\users\peterzz\desktop\ \facu y laburo\farmacia\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Remedio.h"
+	"Fecha.h"
+
+1636671649 source:c:\users\peterzz\desktop\ \facu y laburo\farmacia\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Fecha.h"
+
+1636667535 source:c:\users\peterzz\desktop\ \facu y laburo\farmacia\src\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Fecha.h"
+
+1636068540 source:c:\users\peterzz\desktop\ \facu y laburo\farmacia\src\perfumeria.cpp
+	<iostream>
+	<cstring>
+	"Perfumeria.h"
+	"Fecha.h"
+
+1636070037 source:c:\users\peterzz\desktop\ \facu y laburo\farmacia\src\remedio.cpp
+	<iostream>
+	<cstring>
+	"Remedio.h"
+	"Fecha.h"
+
+1636674480 source:c:\users\peterzz\desktop\ \facu y laburo\farmacia\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Remedio.h"
+	"Perfumeria.h"
+	"Fecha.h"
+	"Cliente.h"
+
